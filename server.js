@@ -18,6 +18,7 @@ const hosts = {
   t3nt1: "https://t3nt1-cf.wooblzlhl524.com",
   t3nt2: "https://t3nt2-cf.wooblzlhl524.com",
   t4nt1: "https://t4nt1-cf.wooblzlhl524.com",
+  t6nt1: "https://t6nt1-cf.wooblzlhl524.com",
 };
 
 app.all("*", async (req, res) => {
